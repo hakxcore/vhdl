@@ -1,0 +1,51 @@
+$date
+  Mon Dec 14 17:56:33 2020
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module ha_tb $end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var reg 1 # o $end
+$var reg 1 $ c $end
+$scope module half_adder $end
+$var reg 1 % a $end
+$var reg 1 & b $end
+$var reg 1 ' o $end
+$var reg 1 ( c $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+0#
+0$
+0%
+0&
+0'
+0(
+#1000000
+1"
+1#
+1&
+1'
+#2000000
+1!
+0"
+1%
+0&
+#3000000
+1"
+0#
+1$
+1&
+0'
+1(
+#4000000

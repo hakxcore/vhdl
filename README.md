@@ -1,2 +1,2 @@
 # vhdl
-various types gates
+various types of gates

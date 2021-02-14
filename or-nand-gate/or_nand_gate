@@ -1,0 +1,13 @@
+entity or_nand is
+
+port (a, b:in bit ; y:out bit);
+
+end or_nand; 
+
+architecture dataflow of or_nand is
+
+begin
+
+y<= (a nand a) nand (b nand b); 
+
+end dataflow;

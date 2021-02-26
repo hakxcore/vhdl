@@ -19,7 +19,7 @@
 <a href="#"><img title="UNMAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"></a>
 </p>
 <p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/MUKESHKUMAR2001/vhdl/main/media/vhdl1.png" width="900" height="600"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/MUKESHKUMAR2001/vhdl/main/media/vhdl1v.png" width="900" height="600"/></a>
 </p>
   
   

@@ -1,6 +1,6 @@
 # vhdl
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MUKESHKUMAR2001/vhdl/main/media/vhdl.png" width="200" height="200"/>
+  <img src="https://raw.githubusercontent.com/MUKESHKUMAR2001/vhdl/main/media/vhdl.png" width="350" height="200"/>
 </p>
 <p align="center">
 <a href="#"><img title="vhdl" src="https://img.shields.io/badge/-%20vhdl-green%3FcolorA%3D%2523ff0000%26colorB%3D%2523017e40"></a>
@@ -18,8 +18,15 @@
 <a href="https://github.com/MUKESHKUMAR2001/vhdl/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/MUKESHKUMAR2001/vhdl?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="UNMAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"></a>
 </p>
+<br>
+<br>
+## NOTE:
+<p>You must have to make a testbench file for executing the code perfectly for reference i have written only for <a href="">half-adder</a> file you can go for it. Its simple.</p>
+<br>
+<br>
+<br>
 <p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/MUKESHKUMAR2001/vhdl/main/media/vhdl1v.png" width="900" height="600"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/MUKESHKUMAR2001/vhdl/main/media/vhdl1v.png" width="1000" height="700"/></a>
 </p>
   
   
